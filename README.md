@@ -24,7 +24,7 @@ Javascript game
 
 ## Source Code
 
-No source code was provided. 
+No source code was provided. Thank you to tutorials provided by chris courses. you can check out his youtube profile [here](https://www.youtube.com/@ChrisCourses).
 
 ## Author
 
